@@ -1,5 +1,5 @@
-API for this project 2
-======================
+Chapter 1 project
+=================
 
 .. image:: img/picture.jpg
    :width: 200px
@@ -8,9 +8,6 @@ API for this project 2
    :alt: alternate text
    :align: right
 
-Creativamind 2
-
-.. .. autosummary::
-..    :toctree: generated
+Creativamind
 
 
