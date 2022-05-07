@@ -19,34 +19,11 @@ This footnote is numbered automatically [#]_ and anonymously using a
 
    
    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
 
 .. [#] This footnote is numbered automatically and anonymously using a
    label of "#" only.
    
 .. [#] This footnote is numbered automatically and anonymously using a
    label of "#" only.
-
-    ``[#]_`` , ``[Ref]_`` , 
-[#f1]_ , [Ref]_ . 
-.. [#f1] 1 
-.. [Ref]
 
 
