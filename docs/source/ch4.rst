@@ -13,7 +13,8 @@ Creativamind
 This footnote is numbered automatically [1]_ and anonymously using a
    label of "#" only.
    
-Footnote 1 link[^first]. Footnote 2 link[^second]. Inline footnote^[Text of inline footnote] definition. Duplicated footnote reference[^second]. [^first]: Footnote can have markup
+Footnote 2 link[^second].
+[^second]: Footnote text.
    
    
    
