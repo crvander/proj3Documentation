@@ -9,12 +9,6 @@ author = 'Carlos Ricco'
 release = '0.1'
 version = '0.1.1'
 
-
-master_doc = 'Home'
-todo_include_todos = True
-source_suffix = ['.rst']
-html4_writer = True
-
 # -- General configuration
 
 extensions = [
