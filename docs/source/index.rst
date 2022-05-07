@@ -20,5 +20,5 @@ Contents
 
    usage
    api
-   logo
+logo
 
