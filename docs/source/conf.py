@@ -36,3 +36,10 @@ epub_show_urls = 'footnote'
 
 
 latex_logo = '../html/static/logo2.png'
+
+html_logo = '../html/static/logo.png'
+html_theme_options = {
+  'html_logo_height' : '50px',
+  'html_logo_width'  : '50px',
+  'html_logo_margin' : '0px',
+}
