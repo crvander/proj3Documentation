@@ -10,11 +10,13 @@ Chapter 4 project
 
 Creativamind
 
-This footnote is numbered automatically [1]_ and anonymously using a
+This footnote is numbered automatically [#]_ and anonymously using a
    label of "#" only.
    
-Footnote 2 link[^second].
-[^second]: Footnote text.
+This footnote is numbered automatically [#]_ and anonymously using a
+   label of "#" only.
+   
+
    
    
    
@@ -36,6 +38,9 @@ Footnote 2 link[^second].
    
    
 
+.. [#] This footnote is numbered automatically and anonymously using a
+   label of "#" only.
+   
 .. [#] This footnote is numbered automatically and anonymously using a
    label of "#" only.
 
