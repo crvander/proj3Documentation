@@ -10,7 +10,7 @@ Chapter 4 project
 
 Creativamind
 
-This footnote is numbered automatically [#]_ and anonymously using a
+This footnote is numbered automatically [#]_ and anonymously [here]_ using a
    label of "#" only.
    
 This footnote is numbered automatically [#]_ and anonymously using a
@@ -25,5 +25,7 @@ This footnote is numbered automatically [#]_ and anonymously using a
    
 .. [#] This footnote is numbered automatically and anonymously using a
    label of "#" only.
+   
+.. [here] footnote
 
 
