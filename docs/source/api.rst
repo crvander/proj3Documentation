@@ -10,7 +10,4 @@ API for this project
 
 Creativamind
 
-.. .. autosummary::
-   :toctree: generated
-
 
