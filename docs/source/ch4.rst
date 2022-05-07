@@ -10,10 +10,7 @@ Chapter 4 project
 
 Creativamind
 
-Here's a simple footnote,[#f1]_ and here's a longer one.[Ref]_
-``[#]_`` , ``[Ref]_`` , 
-[#f1]_ , [Ref]_ . 
-[#f1] first note 
-[Ref] second note
+.. [#] This footnote is numbered automatically and anonymously using a
+   label of "#" only.
 
 
