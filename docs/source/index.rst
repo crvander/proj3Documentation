@@ -13,12 +13,27 @@ Creativamind notes...
 
    This project is under active development.
 
-Contents
---------
+Contents of project
+-------------------
 
 .. toctree::
 
    usage
    api
-logo
+   logo
 
+Chapter 1
+---------
+
+.. toctree::
+
+   ch1
+   ch2
+
+Chapter 2
+---------
+
+.. toctree::
+
+   ch3
+   ch4
