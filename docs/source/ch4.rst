@@ -22,4 +22,9 @@ Here's a simple footnote,[1] and here's a longer one.[bignote]
 
     Add as many paragraphs as you like.
 
+    ``[#]_`` , ``[Ref]_`` , 
+[#f1]_ , [Ref]_ . 
+.. [#f1] 1 
+.. [Ref]
+
 
