@@ -31,6 +31,7 @@ intersphinx_disabled_domains = ['std']
 
 # html_theme = 'sphinx_rtd_theme'
 html_theme = 'renku'
+html_theme_path = ["."]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
