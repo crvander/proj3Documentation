@@ -10,7 +10,7 @@ Chapter 4 project
 
 Creativamind
 
-This footnote is numbered automatically[1]_ and anonymously using a
+This footnote is numbered automatically [1]_ and anonymously using a
    label of "#" only.
    
    
