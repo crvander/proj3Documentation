@@ -1,0 +1,8 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "myDSProject"
+authors = [{name = "Carlos Ricc van der Ley", email = "my@email.com"}]
+dynamic = ["version", "description"]
