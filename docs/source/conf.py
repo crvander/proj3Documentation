@@ -11,10 +11,6 @@ version = '0.1.1'
 
 # -- General configuration
 
-# import sphinx_theme_pd
-# html_theme = 'sphinx_theme_pd'
-# html_theme_path = [sphinx_theme_pd.get_html_theme_path()]
-
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
@@ -34,7 +30,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 # html_theme = 'sphinx_rtd_theme'
-html_theme = 'renku-sphinx-theme'
+html_theme = 'renku'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
