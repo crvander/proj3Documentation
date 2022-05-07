@@ -35,4 +35,4 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 
-latex_logo = '_static/logo.png'
+latex_logo = '../html/static/logo2.png'
