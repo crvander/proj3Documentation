@@ -1,5 +1,5 @@
 LOGO
-===
+====
 
 .. image:: img/brain.png
    :width: 200px
@@ -9,7 +9,4 @@ LOGO
    :align: right
 
    Creativamind
-
-.. .. autosummary::
-   :toctree: generated
 

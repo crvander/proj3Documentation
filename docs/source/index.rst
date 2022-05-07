@@ -19,6 +19,6 @@ Contents
 .. toctree::
 
    usage
-   logo
    api
+   logo
 

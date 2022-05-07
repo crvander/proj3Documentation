@@ -3,8 +3,8 @@ Usage for this project
 
 .. _installation:
 
-Installation
-------------
+Installation: first step
+------------------------
 
 To use Lumache, first install it using pip:
 
