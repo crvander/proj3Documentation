@@ -8,9 +8,9 @@ API for this project 2
    :alt: alternate text
    :align: right
 
-Creativamind
+Creativamind 2
 
-.. .. autosummary::
+.. autosummary::
    :toctree: generated
 
 
