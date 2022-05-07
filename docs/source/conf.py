@@ -30,7 +30,7 @@ intersphinx_disabled_domains = ['std']
 # -- Options for HTML output
 
 # html_theme = 'sphinx_rtd_theme'
-html_theme = 'renku'
+html_theme = 'renku-sphinx-theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
